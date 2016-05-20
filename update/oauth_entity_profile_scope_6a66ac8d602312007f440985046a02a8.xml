@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="oauth_entity_profile_scope">
+    <oauth_entity_profile_scope action="INSERT_OR_UPDATE">
+        <oauth_entity_profile display_value="Slack API default_profile">80cbdc0d602312007f440985046a020d</oauth_entity_profile>
+        <oauth_entity_scope display_value="Write Chat as Bot">6216ac8d602312007f440985046a0285</oauth_entity_scope>
+        <sys_class_name>oauth_entity_profile_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-20 18:42:16</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>6a66ac8d602312007f440985046a02a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80cbdc0d602312007f440985046a020d</sys_name>
+        <sys_package display_value="CC16-OAuthWorkshop" source="x_cc16_oauth">83b92ca47cea12007f44f46379a7ad90</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CC16-OAuthWorkshop">83b92ca47cea12007f44f46379a7ad90</sys_scope>
+        <sys_update_name>oauth_entity_profile_scope_6a66ac8d602312007f440985046a02a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-20 18:42:16</sys_updated_on>
+    </oauth_entity_profile_scope>
+</record_update>
